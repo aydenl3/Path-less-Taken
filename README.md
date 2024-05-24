@@ -1,5 +1,3 @@
-**Platform Improvement**
+**Pathless Taken**
 
-Starter code for creating a platformer game using Arcade Phsyics in Phaser.
-
-Visual assets courtesy of [Kenny Assets](https://kenney.nl/assets), with gratitude.
+Phaser Game Project for CMPM120 At UCSC. Uses [Kenny Assets](https://kenney.nl/assets).
